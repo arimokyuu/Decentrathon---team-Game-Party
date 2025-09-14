@@ -10,8 +10,8 @@
 
 1. Склонируйте или скопируйте проект:
    ```command panel
-   git clone https://github.com/your-repo/car-inspector-ai.git
-   cd car-inspector-ai
+   git clone https://github.com/arimokyuu/Decentrathon---team-Game-Party.git
+   cd Decentrathon---team-Game-Party
    ```
 
 2. Установите зависимости:
